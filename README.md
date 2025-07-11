@@ -25,6 +25,7 @@ A fully responsive registration form built using HTML, CSS, and JavaScript, feat
 📁 Project Structure
 
 registration-form/
+
 ├── index.html         # Main HTML file containing the form structure
 ├── style.css          # Styling file for layout, form, and background
 └── script.js          # JavaScript file for validation logic
